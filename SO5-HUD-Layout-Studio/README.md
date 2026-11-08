@@ -7,6 +7,7 @@
 [Open the online studio](https://hoverbike51.github.io/SO5-HUD-Layout-Studio) · [PS4RT SO5 Windows project](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT)
 
 ![SO5 HUD Layout Studio v1.8](assets/logo_hud_studio_HMV.png)
+![SO5 HUD Layout Studio Preview](assets/studio-preview.png)
 
 ## Overview
 
@@ -63,15 +64,11 @@ These are **preview/calibration references**, not independently verified native 
 
 ### Online
 
-1. Open [Hoverbike51's GitHub Pages site](https://hoverbike51.github.io/) once it has been published.
+1. Open [SO5 HUD Layout STudio](https://hoverbike51.github.io/SO5-HUD-Layout-Studio)
 2. Select **16:9**, **21:9**, or **32:9**.
 3. Select a HUD group from the left sidebar.
 4. Edit permitted fields in **Element Inspector**, or drag the group on the canvas.
 5. Click **Save As JSON** for the active profile, or **Export all · ZIP** for all three.
-
-### Offline
-
-Download `index.html`, then open it using **Chrome** or **Edge**. The app does not require a local web server.
 
 ### Import a preset
 
@@ -165,13 +162,14 @@ Calibration reference positions are also stored in browser `localStorage` when a
 This repository is intended for the personal GitHub Pages site:
 
 ```text
-Hoverbike51/hoverbike51.github.io/
+Hoverbike51/hoverbike51.github.io/SO5-HUD-Layout-Studio
 ├── index.html                 # SO5 HUD Layout Studio v1.8
 ├── README.md                  # This documentation
 ├── LICENSE                    # Proposed MIT license for original editor code
 ├── .gitignore                 # Optional minimal ignore rules
 └── assets/
-    └── studio-preview.png     # Screenshot shown above
+    └──logo_hud_studio_HMV.png     # logo shown above
+    └──studio-preview.png          # Screenshot shown above
 ```
 
 To publish:
@@ -198,10 +196,10 @@ With `index.html` at the repository root, the studio is intended to appear at **
 
 **Associated research/Windows port:** [Star Ocean 5 — PS4RT Windows project](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT)
 
-This tool is an **unofficial fan/research utility** and is not affiliated with or endorsed by **Square Enix** or **tri-Ace**. *Star Ocean*, its characters, logos, game code, and original assets remain the property of their respective rights holders. Do not upload proprietary game assets to this repository unless you have permission to distribute them.
+This tool is not affiliated with or endorsed by **Square Enix** or **tri-Ace**. *Star Ocean*, its characters, logos, game code, and original assets remain the property of their respective rights holders. Do not upload proprietary game assets to this repository unless you have permission to distribute them.
 
 ## License
 
-**Proposed license: [MIT](LICENSE)**, for the original source code of this HUD editor. It permits use, modification, and redistribution while requiring retention of the copyright and license notices. The MIT license **does not transfer ownership or grant redistribution rights** over Star Ocean game assets, third-party trademarks, or other material you do not own.
+**License: [MIT](LICENSE)**, for the original source code of this HUD editor. It permits use, modification, and redistribution while requiring retention of the copyright and license notices. The MIT license **does not transfer ownership or grant redistribution rights** over Star Ocean game assets, third-party trademarks, or other material you do not own.
 
 **Copyright © 2026 Hoverbike51.**
