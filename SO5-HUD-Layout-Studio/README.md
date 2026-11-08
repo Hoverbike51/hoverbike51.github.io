@@ -166,21 +166,6 @@ Calibration reference positions are also stored in browser `localStorage` when a
 - Recommended browser: a recent **Chrome** or **Edge** release. Native save dialogs depend on browser/API support and context.
 - The actual game and PS4RT executable are **not** required to run the editor, but are needed for in-game validation.
 
-## Publish with GitHub Pages
-
-This repository is intended for the personal GitHub Pages site:
-
-```text
-Hoverbike51/hoverbike51.github.io/SO5-HUD-Layout-Studio
-├── index.html                 # SO5 HUD Layout Studio v1.9
-├── README.md                  # This documentation
-├── LICENSE                    # Proposed MIT license for original editor code
-├── .gitignore                 # Optional minimal ignore rules
-└── assets/
-    └──logo_hud_studio_HMV.png     # logo shown above
-    └──studio-preview.png          # Screenshot shown above
-```
-
 ## Known limitations
 
 - The canvas is a **layout preview, not live game rendering**.
