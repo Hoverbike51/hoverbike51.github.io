@@ -1,0 +1,79 @@
+
+# ==========================================
+# Hoverbike51 - GitHub Pages
+# SO5 HUD Layout Studio
+# ==========================================
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.Trash-*
+
+# IDE / Editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.log
+*.cache
+*.part
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Node.js (future development)
+node_modules/
+.npm/
+coverage/
+dist/
+.cache/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local testing
+playwright-report/
+test-results/
+
+# Keep GitHub Pages and studio assets
+!index.html
+!README.md
+!LICENSE
+!.gitignore
+!*.html
+!*.css
+!*.js
+!*.json
+!*.png
+!*.jpg
+!*.svg
+!*.zip
