@@ -2,8 +2,8 @@
 
 **A standalone visual JSON preset editor for the Star Ocean 5: Integrity and Faithlessness Windows / PS4RT HUD research project.**
 
-**Created by Hoverbike51** · **Current editor version: v1.8**
-[Open the online studio](https://hoverbike51.github.io/SO5-HUD-Layout-Studio)
+**Created by Hoverbike51** · **Current editor version: v1.8:** 
+<a href="https://hoverbike51.github.io/SO5-HUD-Layout-Studio" rel="nofollow"><img src="https://camo.githubusercontent.com/faed9fa5201b528f62cb0e2069fb7cfea299bc459b282aa92030db22e30133b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e2d53747564696f2d707572706c653f7374796c653d706c6173746963266c696e6b3d6874747073253341253246253246686f76657262696b6535312e6769746875622e696f253246534f352d4855442d4c61796f75742d53747564696f" alt="Open Studio" data-canonical-src="https://img.shields.io/badge/Open-studio-purple?style=plastic" style="max-width: 100%;"></a></p>
 
 
 ![SO5 HUD Layout Studio v1.8](assets/logo_hud_studio_HMV.png)
@@ -72,7 +72,7 @@ These are **preview/calibration references**, not independently verified native 
 
 ### Online
 
-1. Open [SO5 HUD Layout STudio](https://hoverbike51.github.io/SO5-HUD-Layout-Studio)
+1. Open <a href="https://hoverbike51.github.io/SO5-HUD-Layout-Studio" rel="nofollow"><img src="https://camo.githubusercontent.com/faed9fa5201b528f62cb0e2069fb7cfea299bc459b282aa92030db22e30133b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e2d53747564696f2d707572706c653f7374796c653d706c6173746963266c696e6b3d6874747073253341253246253246686f76657262696b6535312e6769746875622e696f253246534f352d4855442d4c61796f75742d53747564696f" alt="Open Studio" data-canonical-src="https://img.shields.io/badge/Open-studio-purple?style=plastic" style="max-width: 100%;"></a></p>
 2. Select **16:9**, **21:9**, or **32:9**.
 3. Select a HUD group from the left sidebar.
 4. Edit permitted fields in **Element Inspector**, or drag the group on the canvas.
