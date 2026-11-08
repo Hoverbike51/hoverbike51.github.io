@@ -6,7 +6,7 @@
 
 [Open the online studio](https://hoverbike51.github.io/SO5-HUD-Layout-Studio) · [PS4RT SO5 Windows project](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT)
 
-![SO5 HUD Layout Studio v1.8 interface](assets/studio-preview.png)
+![SO5 HUD Layout Studio v1.8](assets/logo_hud_studio_HMV.png)
 
 ## Overview
 
