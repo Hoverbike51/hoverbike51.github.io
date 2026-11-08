@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "layout_map": "so5-cusa03219-01.00-hud-research",
+  "title_id": "CUSA03219",
+  "app_ver": "01.00",
+  "name": "HUD layout 21:9",
+  "aspect": "21:9",
+  "units": "logical_1080_anchor_relative",
+  "groups": [
+    {
+      "id": "party_status",
+      "anchor": "original",
+      "offset_x": -543.8,
+      "offset_y": 58.4,
+      "scale": 0.7,
+      "visible": true
+    },
+    {
+      "id": "minimap",
+      "anchor": "right",
+      "offset_x": 0,
+      "offset_y": 30,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "enemy_info",
+      "anchor": "left",
+      "offset_x": 10,
+      "offset_y": 0,
+      "scale": 0.8,
+      "visible": true
+    },
+    {
+      "id": "battle_results",
+      "anchor": "right",
+      "offset_x": 0,
+      "offset_y": 100,
+      "scale": 0.8,
+      "visible": true
+    },
+    {
+      "id": "combo_counter",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "battle_info_banner",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "field_info_banner",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "battle_radial_menu",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "battle_target_selection",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "character_change",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": false
+    },
+    {
+      "id": "location_banner",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "battle_transition",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "dialogue",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "world_markers",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "damage_numbers",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "skill_banner",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "combat_challenges",
+      "anchor": "left",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "level_up",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "action_prompts",
+      "anchor": "right",
+      "offset_x": 0,
+      "offset_y": 13,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "loading_indicator",
+      "anchor": "right",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "menu_background",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "menu_animated_background",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "battle_menu_background",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "enemy_awareness",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "damage_received",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "healing_numbers",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "all_native_ui",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "private_action",
+      "anchor": "right",
+      "offset_x": -2,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "subtitles",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "establishment_background",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    },
+    {
+      "id": "quest_background",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
+    }
+  ]
+}
