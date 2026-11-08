@@ -149,6 +149,8 @@ Calibration reference positions are also stored in browser `localStorage` when a
 - **Preset name**: changes the active layout's JSON `name` field; it can also influence the proposed file name.
 - **Reset active JSON to imported values**: restores the selected aspect's imported values; use care before discarding edits.
 
+![Test HUD Video](assets/sample/Test_HUD.mp4)
+
 ## Privacy and requirements
 
 - All editor processing takes place in your browser; the current application does not include a backend or a feature for uploading your imported JSON to a server.
@@ -171,15 +173,6 @@ Hoverbike51/hoverbike51.github.io/SO5-HUD-Layout-Studio
     └──logo_hud_studio_HMV.png     # logo shown above
     └──studio-preview.png          # Screenshot shown above
 ```
-
-To publish:
-
-1. Commit the files to the repository's `main` branch.
-2. Open **Settings → Pages** on GitHub.
-3. Under **Build and deployment**, select **Deploy from a branch**, **main**, then **/(root)**.
-4. Save the setting and use the GitHub Pages link once the build has completed.
-
-With `index.html` at the repository root, the studio is intended to appear at **https://hoverbike51.github.io/**. If you later add a personal home page, you may move the editor to `SO5-HUD-Layout-Studio/index.html` and update the website link in this README.
 
 ## Known limitations
 
