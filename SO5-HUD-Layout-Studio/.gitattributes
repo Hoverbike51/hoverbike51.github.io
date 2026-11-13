@@ -1,0 +1,14 @@
+# Use stable LF endings for detected text, regardless of core.autocrlf.
+# Binary files remain untouched by text=auto.
+* text=auto eol=lf
+
+# Repository metadata and source manifests must be consistent in clones and ZIPs.
+.gitattributes text eol=lf
+.gitignore text eol=lf
+VERSION text eol=lf
+LICENSE text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
