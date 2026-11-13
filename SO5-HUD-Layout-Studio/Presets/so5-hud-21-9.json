@@ -254,6 +254,14 @@
       "offset_y": 0,
       "scale": 1,
       "visible": true
+    },
+    {
+      "id": "pause_background",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
     }
   ]
 }

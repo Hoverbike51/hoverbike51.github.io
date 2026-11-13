@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 4,
   "layout_map": "so5-cusa03219-01.00-hud-research",
   "title_id": "CUSA03219",
   "app_ver": "01.00",
@@ -254,6 +254,23 @@
       "offset_y": 0,
       "scale": 1,
       "visible": true
+    },
+    {
+      "id": "pause_background",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
     }
-  ]
+  ],
+  "elements": [],
+  "backgrounds": {
+    "menu_background": "original",
+    "menu_animated_background": "original",
+    "battle_menu_background": "original",
+    "establishment_background": "original",
+    "quest_background": "original",
+    "pause_background": "original"
+  }
 }
