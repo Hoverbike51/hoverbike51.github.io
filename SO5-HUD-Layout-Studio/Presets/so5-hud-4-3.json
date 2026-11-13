@@ -6,20 +6,28 @@
   "name": "HUD layout 4:3",
   "aspect": "4:3",
   "units": "logical_1080_anchor_relative",
+  "backgrounds": {
+    "menu_background": "extended",
+    "menu_animated_background": "extended",
+    "battle_menu_background": "extended",
+    "establishment_background": "extended",
+    "quest_background": "extended",
+    "pause_background": "extended"
+  },
   "groups": [
     {
       "id": "party_status",
       "anchor": "original",
-      "offset_x": 0,
-      "offset_y": 0,
+      "offset_x": 40,
+      "offset_y": 209,
       "scale": 1,
       "visible": true
     },
     {
       "id": "minimap",
       "anchor": "original",
-      "offset_x": 0,
-      "offset_y": 0,
+      "offset_x": 4,
+      "offset_y": -184,
       "scale": 1,
       "visible": true
     },
@@ -51,16 +59,16 @@
       "id": "battle_info_banner",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
-      "scale": 1,
+      "offset_y": -100,
+      "scale": 0.95,
       "visible": true
     },
     {
       "id": "field_info_banner",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
-      "scale": 1,
+      "offset_y": -100,
+      "scale": 0.95,
       "visible": true
     },
     {
@@ -91,7 +99,7 @@
       "id": "location_banner",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
+      "offset_y": -100,
       "scale": 1,
       "visible": true
     },
@@ -107,7 +115,7 @@
       "id": "dialogue",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
+      "offset_y": -100,
       "scale": 1,
       "visible": true
     },
@@ -131,7 +139,7 @@
       "id": "skill_banner",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
+      "offset_y": -100,
       "scale": 1,
       "visible": true
     },
@@ -147,7 +155,7 @@
       "id": "level_up",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
+      "offset_y": -100,
       "scale": 1,
       "visible": true
     },
@@ -155,15 +163,15 @@
       "id": "action_prompts",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
+      "offset_y": 130,
       "scale": 1,
       "visible": true
     },
     {
       "id": "loading_indicator",
       "anchor": "original",
-      "offset_x": 0,
-      "offset_y": 0,
+      "offset_x": 90,
+      "offset_y": 207,
       "scale": 1,
       "visible": true
     },
@@ -262,15 +270,15 @@
       "offset_y": 0,
       "scale": 1,
       "visible": true
+    },
+    {
+      "id": "pause_controls",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
     }
   ],
-  "elements": [],
-  "backgrounds": {
-    "menu_background": "extended",
-    "menu_animated_background": "extended",
-    "battle_menu_background": "extended",
-    "establishment_background": "extended",
-    "quest_background": "extended",
-    "pause_background": "extended"
-  }
+  "elements": []
 }

@@ -6,6 +6,14 @@
   "name": "HUD layout 21:9",
   "aspect": "21:9",
   "units": "logical_1080_anchor_relative",
+  "backgrounds": {
+    "menu_background": "extended",
+    "menu_animated_background": "extended",
+    "battle_menu_background": "extended",
+    "establishment_background": "extended",
+    "quest_background": "extended",
+    "pause_background": "extended"
+  },
   "groups": [
     {
       "id": "party_status",
@@ -59,7 +67,7 @@
       "id": "field_info_banner",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
+      "offset_y": -50,
       "scale": 1,
       "visible": true
     },
@@ -85,13 +93,13 @@
       "offset_x": 0,
       "offset_y": 0,
       "scale": 1,
-      "visible": true
+      "visible": false
     },
     {
       "id": "location_banner",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
+      "offset_y": -100,
       "scale": 1,
       "visible": true
     },
@@ -107,7 +115,7 @@
       "id": "dialogue",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
+      "offset_y": -100,
       "scale": 1,
       "visible": true
     },
@@ -147,22 +155,22 @@
       "id": "level_up",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
+      "offset_y": -50,
       "scale": 1,
       "visible": true
     },
     {
       "id": "action_prompts",
       "anchor": "right",
-      "offset_x": 0,
-      "offset_y": 13,
+      "offset_x": 105,
+      "offset_y": 0,
       "scale": 1,
       "visible": true
     },
     {
       "id": "loading_indicator",
       "anchor": "right",
-      "offset_x": 0,
+      "offset_x": 90,
       "offset_y": 0,
       "scale": 1,
       "visible": true
@@ -262,15 +270,15 @@
       "offset_y": 0,
       "scale": 1,
       "visible": true
+    },
+    {
+      "id": "pause_controls",
+      "anchor": "original",
+      "offset_x": 129,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
     }
   ],
-  "elements": [],
-  "backgrounds": {
-    "menu_background": "extended",
-    "menu_animated_background": "extended",
-    "battle_menu_background": "extended",
-    "establishment_background": "extended",
-    "quest_background": "extended",
-    "pause_background": "extended"
-  }
+  "elements": []
 }

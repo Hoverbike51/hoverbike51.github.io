@@ -6,13 +6,21 @@
   "name": "HUD layout 16:9",
   "aspect": "16:9",
   "units": "logical_1080_anchor_relative",
+  "backgrounds": {
+    "menu_background": "extended",
+    "menu_animated_background": "extended",
+    "battle_menu_background": "extended",
+    "establishment_background": "extended",
+    "quest_background": "extended",
+    "pause_background": "extended"
+  },
   "groups": [
     {
       "id": "party_status",
       "anchor": "original",
-      "offset_x": 0,
-      "offset_y": 0,
-      "scale": 1,
+      "offset_x": 50,
+      "offset_y": 38.8,
+      "scale": 0.9,
       "visible": true
     },
     {
@@ -59,8 +67,8 @@
       "id": "field_info_banner",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
-      "scale": 1,
+      "offset_y": -50,
+      "scale": 0.95,
       "visible": true
     },
     {
@@ -90,8 +98,8 @@
     {
       "id": "location_banner",
       "anchor": "original",
-      "offset_x": 0,
-      "offset_y": 0,
+      "offset_x": 1.591,
+      "offset_y": -50,
       "scale": 1,
       "visible": true
     },
@@ -107,7 +115,7 @@
       "id": "dialogue",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
+      "offset_y": -50,
       "scale": 1,
       "visible": true
     },
@@ -147,7 +155,7 @@
       "id": "level_up",
       "anchor": "original",
       "offset_x": 0,
-      "offset_y": 0,
+      "offset_y": -50,
       "scale": 1,
       "visible": true
     },
@@ -262,15 +270,15 @@
       "offset_y": 0,
       "scale": 1,
       "visible": true
+    },
+    {
+      "id": "pause_controls",
+      "anchor": "original",
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1,
+      "visible": true
     }
   ],
-  "elements": [],
-  "backgrounds": {
-    "menu_background": "original",
-    "menu_animated_background": "original",
-    "battle_menu_background": "original",
-    "establishment_background": "original",
-    "quest_background": "original",
-    "pause_background": "original"
-  }
+  "elements": []
 }
