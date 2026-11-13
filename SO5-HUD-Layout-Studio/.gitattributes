@@ -12,3 +12,6 @@ LICENSE text eol=lf
 *.txt text eol=lf
 *.yml text eol=lf
 *.yaml text eol=lf
+
+# Preserve archive and document bytes.
+*.zip binary
