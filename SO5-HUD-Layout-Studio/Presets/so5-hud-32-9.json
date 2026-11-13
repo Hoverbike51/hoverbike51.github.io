@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 4,
   "layout_map": "so5-cusa03219-01.00-hud-research",
   "title_id": "CUSA03219",
   "app_ver": "01.00",
@@ -263,5 +263,14 @@
       "scale": 1,
       "visible": true
     }
-  ]
+  ],
+  "elements": [],
+  "backgrounds": {
+    "menu_background": "extended",
+    "menu_animated_background": "extended",
+    "battle_menu_background": "extended",
+    "establishment_background": "extended",
+    "quest_background": "extended",
+    "pause_background": "extended"
+  }
 }
