@@ -2,11 +2,11 @@
 
 **A standalone visual JSON preset editor for the Star Ocean 5: Integrity and Faithlessness Windows / PS4RT HUD research project.**
 
-**Created by Hoverbike51** · **Current editor version: v2.0:** 
+**Created by Hoverbike51** · **Current editor version: v2.2:** 
 <a href="https://hoverbike51.github.io/SO5-HUD-Layout-Studio" rel="nofollow"><img src="https://camo.githubusercontent.com/faed9fa5201b528f62cb0e2069fb7cfea299bc459b282aa92030db22e30133b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e2d53747564696f2d707572706c653f7374796c653d706c6173746963266c696e6b3d6874747073253341253246253246686f76657262696b6535312e6769746875622e696f253246534f352d4855442d4c61796f75742d53747564696f" alt="Open Studio" data-canonical-src="https://img.shields.io/badge/Open-studio-purple?style=plastic" style="max-width: 100%;"></a>
 
 
-![SO5 HUD Layout Studio v2.0](assets/logo_hud_studio_HMV.png)
+![SO5 HUD Layout Studio v2.2](assets/logo_hud_studio_HMV.png)
 
 <p align="center">
 <a href="https://ps4rt.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/6cb97f075e7a4d8be62beba66e1c9ff78ba3d867d7d9f2a78a0a186c6403eed3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d50533452542d677265656e6c3f7374796c653d666f722d7468652d6261646765" alt="Website PS4RT" data-canonical-src="https://img.shields.io/badge/Website-ps4rt-greenlight?style=for-the-badge" style="max-width: 100%;"></a></p>
